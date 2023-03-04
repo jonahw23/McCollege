@@ -1,0 +1,11 @@
+# Error 407 #
+
+# Media overflow #
+
+WARNING - Your device cannot support media file sizes over 16.0 GB 
+
+"McCollege_Sports.file" size : 164.37 GB
+
+Current space on DRIVE : 10.16 GB
+
+Release 154.21 GB of space to view "McCollege_Sports.file"

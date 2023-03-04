@@ -1,0 +1,7 @@
+# Error 402 #
+
+# Corrupted file #
+
+EZ-website-template has failed to load. 
+
+Contact your network administrators to repair this issue. 
